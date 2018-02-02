@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Biol 812 GitHub Pages Assignment
 
-You can use the [editor on GitHub](https://github.com/kevinmcdermott062/bio812/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Markdown used to complete the assignemt
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 
@@ -14,7 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # 1. When should you use Git for a project?
  
 
-Answer: Anytime you want to ensure you have a back-up of the versions of your code/work and when you want have multiple people collaborating on a project.
+* Answer: Anytime you want to ensure you have a back-up of the versions 
+of your code/work and when you want have multiple people collaborating on a project.
+
+
+
+
 
 
 Syntax highlighted code block
