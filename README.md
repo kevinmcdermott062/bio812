@@ -9,6 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
+
+# 1. When should you use Git for a project?
+ 
+
+Answer: Anytime you want to ensure you have a back-up of the versions of your code/work and when you want have multiple people collaborating on a project.
+
+
 Syntax highlighted code block
 
 # Header 1
