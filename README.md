@@ -3,7 +3,7 @@
 
 ### 1. When should you use Git for a project?
     * Anytime you want to ensure you have a back-up of the versions of your code/work and when you want to
-    have multiple people collaborating on a project.
+      have multiple people collaborating on a project.
 
 ### 2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git       repo? ### 
     * A Git repo is really useful to store code for coding projects. Data and any username/pw 
@@ -13,9 +13,10 @@
     *
 
 ### 4. One of your repositories is in a detached HEAD state. How do you fix this?
-    * git reset --hard
+       * git reset --hard
 
 ### 5. Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.
+ 
  
 #### Pros for using Git
 
