@@ -4,17 +4,15 @@
 ### 1. When should you use Git for a project?
 Anytime you want to ensure you have a back-up of the versions of your code/workand when you want to have multiple people collaborating on a project.
 
-### 2. What kind of files/info should be saved in a Git repository? 
-###    What types of files/infoshould not be included in a Git repo? 
+### 2. What kind of files/info should and should not be saved in a Git repository?
 
-A Git repo is really useful to store code for coding projects. Data and any username/pw 
-      should never be stored in a Git repo as the repo is public.
+A Git repo is really useful to store code for coding projects. Data and any username/pw should never be stored in a Git repo as the repo is public.
 
 ### 3. What are the commands to undo a commit?
 #### Undo a "public" change
 Scenario: You just ran git push, sending your changes to GitHub, now you realize there's a problem with one of those            commits. You'd like to undo that commit.
 
- ** Undo with: git revert <SHA>
+** Undo with: git revert <SHA>
 
 #### Fix the last commit message
 Scenario: You just typo'd the last commit message, you did git commit -m "Fxies bug #42" but before git push you realize        that really should say "Fixes bug #42".
@@ -22,7 +20,7 @@ Scenario: You just typo'd the last commit message, you did git commit -m "Fxies 
 ** Undo with: git commit --amend or git commit --amend -m "Fixes bug #42"
 
 #### Undo "local" changes
-   Scenario: The cat walked across the keyboard and somehow saved the changes, then crashed the editor. You haven't committed those changes, though. You want to undo everything in that file—just go back to the way it looked in the last commit.
+Scenario: The cat walked across the keyboard and somehow saved the changes, then crashed the editor. You haven't committed those changes, though. You want to undo everything in that file—just go back to the way it looked in the last commit.
 
 ** Undo with: git checkout -- <bad filename>
    
