@@ -2,28 +2,20 @@
 
 
 ### 1. When should you use Git for a project?
-
-#### Answer
-* Anytime you want to ensure you have a back-up of the versions 
+    * Anytime you want to ensure you have a back-up of the versions 
   of your code/work and when you want have multiple people collaborating on a project.
 
-### 2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git       repo? ###
-
-#### Answer: 
-* A Git repo is really useful to store code for coding projects. Data and any username/pw 
+### 2. What kind of files/info should be saved in a Git repository? What types of files/info should not be included in a Git       repo? ### 
+    * A Git repo is really useful to store code for coding projects. Data and any username/pw 
   should never be stored in a Git repo as the repo is public.
 
 ### 3. What are the commands to undo a commit?
-#### Answer: 
-*
+    *
 
 ### 4. One of your repositories is in a detached HEAD state. How do you fix this?
-#### Answer: 
-* git reset --hard
+    * git reset --hard
 
 ### 5. Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.
-
- #### Answer:
  
 #### Pros for using Git
 
@@ -36,7 +28,6 @@
 *
 *
 
-
 3 - Submit a pull request
 Add a link to this webpage by submitting a pull request to this repository (https://github.com/jstaf/biol812-assignment).
 Here is the link to my new BIOL812 webpage assignment biol812 Github webpage and assignment
@@ -46,8 +37,8 @@ Kevin McDermott
 
 
 
+# Here is link to my assignent webpage on GitHub
 
-
-[Link](https://kevinmcdermott062.github.io/bio812/) and ![Image](src)
+[Link](https://kevinmcdermott062.github.io/bio812/) and ![Image]()
 
 
