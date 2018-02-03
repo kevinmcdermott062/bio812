@@ -14,8 +14,8 @@
 
       ** Undo with: git revert <SHA>
    
-  * Fix the last commit message
-   Scenario: You just typo'd the last commit message, you did git commit -m "Fxies bug #42" but before git push you realized        that really should say "Fixes bug #42".
+    * Fix the last commit message
+      Scenario: You just typo'd the last commit message, you did git commit -m "Fxies bug #42" but before git push you realize        that really should say "Fixes bug #42".
 
    ** Undo with: git commit --amend or git commit --amend -m "Fixes bug #42"
 
