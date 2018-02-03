@@ -5,8 +5,7 @@
     * Anytime you want to ensure you have a back-up of the versions of your code/work and when you want
       to have multiple people collaborating on a project.
 
-### 2. What kind of files/info should be saved in a Git repository? What types of files/info
-### should not be included in a Git repo? 
+### 2. What kind of files/info should be saved in a Git repository? What types of files/infoshould not be included in a Git repo? 
     * A Git repo is really useful to store code for coding projects. Data and any username/pw 
       should never be stored in a Git repo as the repo is public.
 
