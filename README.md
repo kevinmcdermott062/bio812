@@ -1,6 +1,6 @@
 ## Welcome to my Biol 812 GitHub Pages Assignment 
 
-```markdown
+
 ### 1. When should you use Git for a project?
     * Anytime you want to ensure you have a back-up of the versions of your code/work and when you want
       to have multiple people collaborating on a project.
@@ -32,15 +32,11 @@
 
 3 - Submit a pull request
 Add a link to this webpage by submitting a pull request to this repository (https://github.com/jstaf/biol812-assignment).
-Here is the link to my new BIOL812 webpage assignment biol812 Github webpage and assignment
 
+
+## Here is the link to my Biol812 assignment's webpage on GitHub
+
+[https://kevinmcdermott062.github.io/bio812/]  
 Kevin McDermott
 
 
-
-
-# Here is link to my assignent webpage on GitHub
-
-[Link](https://kevinmcdermott062.github.io/bio812/) and ![Image]()
-
-```
