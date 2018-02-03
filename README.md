@@ -26,7 +26,7 @@ Scenario: The cat walked across the keyboard and somehow saved the changes, then
    
 ### To review all the ways of undoing a commit, see this reference:
    
- https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+ [link](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
  
 ### 4. One of your repositories is in a detached HEAD state. How do you fix this?
 
@@ -51,12 +51,12 @@ git reset --hard
 
 ### 3 - Submit a pull request
 
-Add a link to this webpage by submitting a pull request to this repository (https://github.com/jstaf/biol812-assignment).
+Add a link to this webpage by submitting a pull request to this repository [link](https://github.com/jstaf/biol812-assignment).
 
 
 ## Here is the link to my Biol812 assignment's webpage on GitHub
 
-https://kevinmcdermott062.github.io/bio812  
+[github website](https://kevinmcdermott062.github.io/bio812) 
 Kevin McDermott
 
 
